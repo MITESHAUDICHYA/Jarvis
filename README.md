@@ -94,8 +94,6 @@ https://github.com/user-attachments/assets/50d06be1-df1b-4c51-b3fe-6b4652c97ce8
 
 Feel free to open issues or pull requests to contribute to this project!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
